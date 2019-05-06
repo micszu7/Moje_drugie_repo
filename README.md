@@ -30,3 +30,5 @@ def sprawdzenie(x):
     x = "".join(x_lista)
     return x
 print(sprawdzenie(numer))
+
+siema
